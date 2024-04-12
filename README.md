@@ -1,0 +1,1 @@
+Chạy php testCommand.php
