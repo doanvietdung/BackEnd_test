@@ -1,1 +1,1 @@
-Chạy php testCommand.php
+Chạy php TestCommand.php
